@@ -1,0 +1,105 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/DigitalInput[0]": "Digital Input",
+      "/LiveWindow/Ungrouped/DigitalInput[1]": "Digital Input",
+      "/LiveWindow/Ungrouped/DigitalInput[2]": "Digital Input",
+      "/LiveWindow/Ungrouped/DigitalInput[3]": "Digital Input",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[2]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[3]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[4]": "PIDController",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/Spark[0]": "Motor Controller",
+      "/Shuffleboard/DriverStation/Auton Chooser/AutoPreviewField": "Field2d",
+      "/Shuffleboard/DriverStation/Auton Chooser/Number of Balls": "String Chooser",
+      "/Shuffleboard/DriverStation/Auton Chooser/SendableChooser[2]": "String Chooser",
+      "/Shuffleboard/DriverStation/Auton Chooser/SendableChooser[3]": "String Chooser",
+      "/Shuffleboard/DriverStation/Auton Chooser/SendableChooser[4]": "String Chooser",
+      "/Shuffleboard/DriverStation/Auton Chooser/SendableChooser[5]": "String Chooser",
+      "/Shuffleboard/DriverStation/Auton Chooser/SendableChooser[6]": "String Chooser",
+      "/Shuffleboard/DriverStation/Auton Chooser/Starting Location": "String Chooser",
+      "/Shuffleboard/DriverStation/SendableChooser[1]": "String Chooser",
+      "/Shuffleboard/TestMode/SendableChooser[0]": "String Chooser",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/SendableChooser[0]": "String Chooser",
+      "/SmartDashboard/SendableChooser[1]": "String Chooser"
+    },
+    "windows": {
+      "/SmartDashboard/Field": {
+        "Robot": {
+          "arrowColor": [
+            0.0,
+            1.0,
+            0.0,
+            255.0
+          ],
+          "arrowSize": 47,
+          "arrowWeight": 2.5,
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            255.0
+          ],
+          "length": 0.9300000071525574,
+          "weight": 3.0,
+          "width": 0.8289999961853027
+        },
+        "height": 8.229599952697754,
+        "markers": {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            255.0
+          ],
+          "image": "/Users/sanjithudupa/Documents/GitHub/MK6-Swerve-Imported/images/marker.png",
+          "length": 0.05000000074505806,
+          "width": 0.05000000074505806
+        },
+        "path": {
+          "image": "/Users/sanjithudupa/Documents/GitHub/MK6-Swerve-Imported/images/path.png",
+          "length": 0.07500000298023224,
+          "width": 0.07500000298023224
+        },
+        "robotpath": {
+          "image": "/Users/sanjithudupa/Documents/GitHub/MK6-Swerve-Imported/images/robotpath.png",
+          "length": 0.05000000074505806,
+          "width": 0.05000000074505806
+        },
+        "width": 16.458999633789063,
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "Shuffleboard": {
+      "GameSpec": {
+        "Shooter": {
+          "open": true
+        },
+        "open": true
+      },
+      "Shotmap": {
+        "Shooter": {
+          "open": true
+        },
+        "mapOut": {
+          "open": true
+        },
+        "open": true
+      },
+      "TestMode": {
+        "open": true
+      },
+      "open": true
+    },
+    "limelight": {
+      "open": true
+    }
+  }
+}
